@@ -45,7 +45,7 @@ In this task I made an interactive activity using React.js, Node.js, and Express
 
 ## How to run the app
 
-First, clone the reposiotry using this command `git clone `
+First, clone the reposiotry using this command `git clone https://github.com/hebaghazali/nagwa-javascript-developer-task.git`
 
 Then, open a terminal inside the directory and go to the server directory using `cd server` and run the following commands:
 
@@ -64,3 +64,5 @@ Once you start the app, you'll see the quiz started and you can immediately choo
 You'll get a random of 10 questions, each question gives you a word and asks whether this word is a noun, adverb, adjective, or a verb, after you choose an answer you'll get a feedback whether it's correct or not. Then you can go to the next question and do the same until you reach the last question.
 
 When you finish the 10 questions, your rank amongst other students will be shown to you, then you can retake the quiz if you want.
+
+### I hope you enjoy using the app :)
