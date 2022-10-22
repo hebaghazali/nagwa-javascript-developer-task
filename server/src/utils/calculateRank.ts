@@ -5,7 +5,7 @@ export default (score: number) => {
 
   let rank: number = 0;
 
-  // loop through scores and each score is called s, if s is less than the score we got from client side, increase rank
+  // loop through scores and each score is called 's', if 's' is less than the score we got from client side, increase rank
   for (const s of scores) {
     if (s < score) rank += 100 / scores.length;
   }
