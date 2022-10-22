@@ -1,0 +1,35 @@
+.rank-list-container {
+  overflow-y: scroll;
+  height: 20rem;
+  width: 20rem;
+  box-shadow: 0 0 5px #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+.rank-list-container h3 {
+  padding-bottom: 1rem;
+}
+
+li {
+  box-shadow: 0 0 5px #3e3e3e;
+  border-radius: 5px;
+  padding: 1rem;
+  text-align: center;
+  width: 6rem;
+  position: relative;
+}
+
+li.selected-rank {
+  box-shadow: 0 0 3px 2px #04356d;
+}
+
+li p {
+  position: absolute;
+  left: -6rem;
+  color: #04356d;
+  top: 1rem;
+}

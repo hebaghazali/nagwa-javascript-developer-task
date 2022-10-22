@@ -1,0 +1,14 @@
+.card {
+  width: 32rem;
+  height: 35rem;
+  overflow-y: auto;
+  background-color: #fff;
+  box-shadow: 1px 1px 5px #838383;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem 2rem;
+  position: relative;
+}
