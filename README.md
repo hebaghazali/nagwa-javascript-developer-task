@@ -45,7 +45,7 @@ In this task I made an interactive activity using React.js, Node.js, and Express
 
 ## How to run the app
 
-First, clone the reposiotry using this command `git clone https://github.com/hebaghazali/nagwa-javascript-developer-task.git`
+First, clone the repository using this command `git clone https://github.com/hebaghazali/nagwa-javascript-developer-task.git`
 
 Then, open a terminal inside the directory and go to the server directory using `cd server` and run the following commands:
 
