@@ -2,7 +2,7 @@
 
 ## About the task
 
-In this task I made an interactive activity using React.js, Node.js, and Express (with TypeScript) that helps the students practice categorizing a set of words according to their Part of Speech.
+In this task I made an interactive activity that helps the students practice categorizing a set of words according to their Part of Speech.
 
 ## Technologies used
 
